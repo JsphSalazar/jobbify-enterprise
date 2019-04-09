@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1031910117968",
+    "firebase_url": "https://jobbify-moviles-id.firebaseio.com",
+    "project_id": "jobbify-moviles-id",
+    "storage_bucket": "jobbify-moviles-id.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031910117968:android:0f0b3dc01aad5e47",
+        "android_client_info": {
+          "package_name": "mx.tec.jobbify_client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031910117968-lmf0s3m6f3et3ir722gletcesdhefbl8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL-WSxXZr3j4SmCcRVZpKvN3TuxvqWm3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031910117968-lmf0s3m6f3et3ir722gletcesdhefbl8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031910117968:android:37d00fefe398fa0d",
+        "android_client_info": {
+          "package_name": "mx.tec.jobbify_enterprise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031910117968-lmf0s3m6f3et3ir722gletcesdhefbl8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL-WSxXZr3j4SmCcRVZpKvN3TuxvqWm3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031910117968-lmf0s3m6f3et3ir722gletcesdhefbl8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
