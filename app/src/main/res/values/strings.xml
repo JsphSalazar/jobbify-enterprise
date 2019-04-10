@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">jobbify-enterprise</string>
+    <string name="app_name">JobbifyEnterprise</string>
+
+    <!-- welcome activity-->
+    <string name="registerButton">REGISTER</string>
+    <string name="loginButton">LOGIN</string>
 </resources>
