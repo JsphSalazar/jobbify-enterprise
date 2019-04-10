@@ -4,4 +4,16 @@
     <!-- welcome activity-->
     <string name="registerButton">REGISTER</string>
     <string name="loginButton">LOGIN</string>
+
+    <!-- dashboard enterprise-->
+    <string name="addJobButton">CREATE JOB</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_enterprise_dashboard">EnterpriseDashboard</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="tab1">PROFILE</string>
+    <string name="tab2">CREATE JOB</string>
 </resources>
